@@ -1,0 +1,17 @@
+installed packages names:
+
+git 
+https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe
+
+visual studio 
+https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+
+putty 
+https://putty.en.softonic.com/
+
+notepad++ 
+https://notepad.plus/download/
+
+mobaxtream 
+https://mobaxterm.mobatek.net/download.html
+
